@@ -30,7 +30,7 @@ An interactive **Red Team vs Blue Team cybersecurity simulation** game designed 
 ### 🧪 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Soc-Simulation-Game/.git
+git clone https://github.com/Soc-Simulation-Game.git
 cd blue-vs-red-soc-game
 ```
 
